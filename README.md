@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Sao</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Production-Ready+Backend+Projects;React+Learner;DSA+Enthusiast+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Production-Ready+Backend+Projects;React+Learner;DSA+Enthusiast" />
 </p>
 
 ---
