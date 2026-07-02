@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Aayush Sao</h1>
-<h3 align="center">Aspiring Software Engineer | C++ | MERN Stack | DSA Enthusiast | Backend Developer</h3>
 
-- 🔭 I’m currently working on **Building a production-ready URL Shortener using Node.js, Express, PostgreSQL, Drizzle ORM, JWT, Zod, and Docker.**
+<h3 align="center">
+Backend Developer • React Learner • DSA Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Backend Development, System Design, Authentication, Database Design, and MERN Stack.**
+---
 
-- 👯 I’m looking to collaborate on **Open Source Projects, Backend APIs, and Full Stack Web Applications.**
+### 🚀 About Me
 
-- 🤝 I’m looking for help with **Scalable Backend Architecture and Open Source Contributions.**
+- 🔭 Currently building **Production-ready Backend Projects with Node.js & PostgreSQL**
+- 🌱 Currently learning **React, System Design, and Backend Development**
+- 💬 Ask me about **C++, Node.js, Express.js, PostgreSQL, Drizzle ORM, JWT, and REST APIs**
+- 📫 Reach me at **asao4393@gmail.com**
 
-- 💬 Ask me about **C++, Data Structures & Algorithms, Node.js, Express.js, PostgreSQL, MongoDB, React, and REST APIs.**
+---
 
-- 📫 How to reach me **asao4393@gmail.com**
+### 🛠 Tech Stack
 
-- ⚡ Fun fact **I love solving DSA problems and building backend applications.**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,express,postgres,mongodb,docker,git,github,vscode" />
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
