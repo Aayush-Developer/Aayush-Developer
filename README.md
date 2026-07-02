@@ -18,7 +18,7 @@ Backend Developer • React Learner • DSA Enthusiast
 ### 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,postgres,mongodb,docker,postman,drizzle,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,postgres,mongodb,docker,postman,git,github,vscode" />
 </p>
 
 ---
